@@ -105,3 +105,21 @@ a {
     color-scheme: dark;
   }
 }
+
+.text {
+  margin: 10px 0;
+  text-align: center;
+  color: green;
+  font-weight: bold;
+}
+
+.textfield {
+  display: flex;
+  flex-direction: column;
+  margin: 20px 0;
+}
+
+.btn-content {
+  display: flex;
+  justify-content: center;
+}
